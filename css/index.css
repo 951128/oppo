@@ -1,0 +1,125 @@
+/*
+* @Author: Administrator
+* @Date:   2018-03-09 14:41:03
+* @Last Modified by:   Administrator
+* @Last Modified time: 2018-04-14 17:34:10
+*/
+body{
+	background: blue;
+	position: relative;
+
+}
+.box{
+	width: 453px;
+	height: 917px;
+	background: #eae9f7;
+	margin: 0 auto;
+	border-radius: 30px;
+	box-shadow: 0 0 5px 2px #fff inset;
+	position: relative;
+}
+.top{
+	width: 100%;
+	height: 100px;
+	background:#e1e5e6;
+	border-top-left-radius: 30px;
+	border-top-right-radius: 30px;
+	overflow: hidden;
+}
+.top_box{
+	width: 168px;
+	height: 18px;
+	margin-left: 148px;
+	margin-top: 43px;
+}
+.top1{
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    background: #0b0b0d;
+    float: left;
+    margin-right: 21px;
+}
+.top2{
+    width: 81px;
+    height: 8px;
+    background: #0b0b0d;
+    border-radius: 12px;
+    margin-top: 5px;
+    float: left;
+}
+.top3{
+    width: 27px;
+    height: 11px;
+    margin-top: 3px;
+    background: #0b0b0d;
+    border-radius: 12px;
+    float: right;
+}
+.center{
+	width: 453px;
+	height: 708px;
+	background: #e1e5e6;
+}
+.pingmu{
+	width: 398px;
+	height: 698px;
+    margin: 0 auto;
+    border: 5px solid black;
+}
+.bottom{
+	width: 100%;
+	height: 109px;
+	background: #e1e5e6;
+	border-bottom-left-radius: 30px;
+	border-bottom-right-radius: 30px;
+	line-height: 
+}
+.home{
+	width: 282px;
+	height: 18px;
+	background: #e1e5e6;
+	margin-top: 45px;
+	margin-left: 86px;
+	display:inline-block;
+}
+.anjian{
+	width: 3px;
+	height: 122px;
+	position: absolute;
+    top: 273px;
+    right: -3px;
+    display: block;
+}
+.anjianjia{
+	width: 3px;
+	height: 56px;
+	background: #bababa;
+    
+}
+.anjian-{
+	width: 3px;
+	height: 56px;
+	background: #bababa;
+	margin-top: 10px;
+}
+.anjian1{
+	width: 3px;
+	height: 73px;
+	background: #bababa;
+	position: absolute;
+	top: 260px;
+	left: -3px;
+}
+.submit{
+	width: 50px;
+	height: 50px;
+	font-size: 20px;
+	color: yellow;
+	line-height: 50px;
+	text-align: center;
+	background: red;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+}
